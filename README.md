@@ -15,7 +15,7 @@ Visit my Behance profile for more UI designs: [Ankit Passi on Behance](https://w
 
 This is a basic Xamarin Android Widget which displays the RealTime Barclays Premier League Standing. User has to add widget to the screen and Click on "update" button to update and display the data. (Usage GIF below)
 
-Design is simplistic and clean enough to display all the required Information on the go.
+Design is simplistic, Material Design 2.0 and clean enough to display all the required Information on the go.
 
 
 ## 2.   Assets
